@@ -1,5 +1,4 @@
 # ProjectDesign
-![mahua](https://github.com/MicahelChan/ProjectDesign/blob/master/6E9206A31ECB857FD1F784CE639F929E.png)
 ## ProjectDesign是什么?
 一个基于墨刀创作平台设计的移动应用iOS项目
 向墨刀的开发者张元一致敬!
@@ -40,4 +39,6 @@
 * [modao](https://free.modao.cc)
 
 # 你的Star是我更新的动力，使用过程如果有什么问题或者有什么新的建议，可以issues,我会及时回复大家！
+![个人中心](https://github.com/MicahelChan/ProjectDesign/blob/master/6E9206A31ECB857FD1F784CE639F929E.png)
+
 
