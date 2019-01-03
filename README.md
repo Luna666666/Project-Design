@@ -39,6 +39,11 @@
 * [modao](https://free.modao.cc)
 
 # 你的Star是我更新的动力，使用过程如果有什么问题或者有什么新的建议，可以issues,我会及时回复大家！
-![个人中心](https://github.com/MicahelChan/ProjectDesign/blob/master/6E9206A31ECB857FD1F784CE639F929E.png)
+![个人主页详情](https://github.com/MicahelChan/ProjectDesign/blob/master/09FD5C543E09A5C3456FA2B435D45A81.png)
+![个人主页详情](https://github.com/MicahelChan/ProjectDesign/blob/master/3B473EAA2168D9B90EBF8ACA6861B5CE.png)
+![个人主页详情](https://github.com/MicahelChan/ProjectDesign/blob/master/6E9206A31ECB857FD1F784CE639F929E.png)
+![个人主页详情](https://github.com/MicahelChan/ProjectDesign/blob/master/8EF97BE760FDC3EFD97C82CA4F8171BF.png)
+![个人主页详情](https://github.com/MicahelChan/ProjectDesign/blob/master/9B7101978F9E88AD77E4DDFFA6D5AA7C.png)
+
 
 
