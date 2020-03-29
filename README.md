@@ -1,6 +1,6 @@
 # ProjectDesign
 ## ProjectDesign是什么?
-一个基于墨刀创作平台设计的移动应用iOS项目
+一个基于墨刀创作平台设计的移动应用业余iOS设计学习项目
 向墨刀的开发者张元一致敬!
 
 ## ProjectDesign主要功能？
@@ -23,14 +23,12 @@
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
 * 邮件(951123604@qq.com)
 * QQ: 951123604
-* weibo: [@xiaoqiang是个小疯子](https://weibo.com/p/1005055732746027/home?from=page_100505&mod=TAB#place)
-* twitter: [@CharlesDing8](https://twitter.com/CharlesDing8)
-* 墨刀: [@丁能强](https://free.modao.cc/workspace/apps/pCB958EE4151509607158424)
+* weibo: (https://weibo.com/p/1005055732746027/home?from=page_100505&mod=TAB#place)
+* twitter:(https://twitter.com/CharlesDing8)
+* 墨刀:(https://free.modao.cc/workspace/apps/pCB958EE4151509607158424)
 
 ## 捐助开发者
-在兴趣的驱动下,写一个`免费`的东西，有欣喜，也还有汗水，希望你喜欢我的作品，同时也能支持一下。
-当然，有钱捧个钱场（右上角的爱心标志，支持支付宝和PayPal捐助），没钱捧个人场，谢谢各位。
-
+在兴趣的驱动下,写一个`免费`的东西，有欣喜，
 ## 感激
 感谢以下的项目,排名不分先后
 
@@ -39,11 +37,6 @@
 * [modao](https://free.modao.cc)
 
 # 你的Star是我更新的动力，使用过程如果有什么问题或者有什么新的建议，可以issues,我会及时回复大家！
-![个人主页详情](https://github.com/MicahelChan/ProjectDesign/blob/master/09FD5C543E09A5C3456FA2B435D45A81.png)
-![个人主页详情](https://github.com/MicahelChan/ProjectDesign/blob/master/3B473EAA2168D9B90EBF8ACA6861B5CE.png)
-![个人主页详情](https://github.com/MicahelChan/ProjectDesign/blob/master/6E9206A31ECB857FD1F784CE639F929E.png)
-![个人主页详情](https://github.com/MicahelChan/ProjectDesign/blob/master/8EF97BE760FDC3EFD97C82CA4F8171BF.png)
-![个人主页详情](https://github.com/MicahelChan/ProjectDesign/blob/master/9B7101978F9E88AD77E4DDFFA6D5AA7C.png)
 
 
 
